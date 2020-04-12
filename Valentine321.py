@@ -37,7 +37,7 @@ elif years >= 1:
 elif years < 1:
     if months >= 6:
         gift = "concert tickets"
-    elif month < 6 and days > 1:
+    elif months < 6 and days > 1:
                 gift = "candy"
 else:
     gift = "yacht"
